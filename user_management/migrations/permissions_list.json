@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Read",
+        "code": "R"
+    },
+    {
+        "name": "Create",
+        "code": "C"
+    },
+    {
+        "name": "Update",
+        "code": "U"
+    },
+    {
+        "name": "Delete",
+        "code": "D"
+    },
+    {
+        "name": "Export",
+        "code": "E"
+    }
+
+        ]

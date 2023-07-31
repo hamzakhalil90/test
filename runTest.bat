@@ -1,0 +1,1 @@
+CMD /k "python manage.py test --pattern=test_*.py"

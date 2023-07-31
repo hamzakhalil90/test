@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Product Types",
+        "path": "/inventory/product_type"
+    },
+    {
+        "name": "Product",
+        "path": "/inventory/product"
+    },
+    {
+        "name": "Module",
+        "path": "/module"
+    },
+    {
+
+        "name": "Warehouse",
+        "path": "/inventory/warehouse"
+    },
+    {
+        "name": "Plant",
+        "path": "/inventory/plant"
+    },
+    {
+        "name": "User Group",
+        "path": "/usergroup"
+    },
+    {
+        "name": "User",
+        "path": "/user"
+    },
+    {
+        "name": "Employee",
+        "path": "/employee"
+    },
+    {
+        "name": "Outlet",
+        "path": "/channel/outlet"
+    },
+    {
+        "name": "Channels",
+        "path": "/channel/"
+    },
+    {
+        "name": "Grades",
+        "path": "/grade"
+    },
+    {
+        "name": "Designation",
+        "path": "/designation"
+    },
+    {
+        "name": "Department",
+        "path": "/department"
+    },
+    {
+        "name": "Brand Type",
+        "path": "/market_intelligence/brand_type"
+    },
+    {
+        "name": "Brand",
+        "path": "/market_intelligence/brand"
+    },
+    {
+        "name": "Dashboard",
+        "path": "/dashboard"
+    },
+    {
+        "name": "Subzone",
+        "path": "/area/sub_zone"
+    },
+    {
+        "name": "Zone",
+        "path": "/area/zone"
+    },
+    {
+        "name": "City",
+        "path": "/area/city"
+    },
+    {
+        "name": "Region",
+        "path": "/area/region"
+    },
+    {
+        "name": "Country",
+        "path": "/area/country"
+    }
+        ]
